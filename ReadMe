@@ -1,0 +1,12 @@
+mover.py
+    To set the logic of player 1 and 2
+    You have to comment/uncomment line in 1st function get_move
+
+
+test.py
+    To set number of iteration,
+    BoardSize you can configure in test.py
+
+
+TO RUN
+python3 test.py
